@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[booboo USA]]></title>
+        <description><![CDATA[booboo USA]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 26 Apr 2016 22:42:47 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Organising To Make Life Easier: Car Organisation]]></title>
+            <description><![CDATA[<article><h1>Organising To Make Life Easier: Car Organisation</h1><p>Today I want to share with you how I organise our car. After seeing a blog post about car organisation and kit from Kaz at Living on a latte. I thought some areas of our car could be organised better. Thanks for the inspiration and the ideas Kaz.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4846241764d537117aac7f023f5b77fb83b5f899.jpg"></article>]]></description>
+            <link>http://www.organisingtomakelifeeasier.com/2012/08/car-organisation.html</link>
+            <guid isPermaLink="false">564b298f-3b75-4779-81c3-70b7ad4c6ca5</guid>
+            <pubDate>Tue, 26 Apr 2016 22:41:49 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
