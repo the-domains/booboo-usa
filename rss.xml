@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[booboo USA]]></title>
         <description><![CDATA[booboo USA]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/booboo-usa/</link>
         <generator>The Grid</generator>
         <lastBuildDate>Tue, 26 Apr 2016 22:42:47 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <atom:link href="https://thegrid.ai/booboo-usa/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[10 Tips for Organising Children's Toys]]></title>
+            <description><![CDATA[<article><h1>10 Tips for Organising Children's Toys</h1><p>Stepping on Lego pieces HURTS! Kneeling on them is even worse! I love Lego but it's hard to organise. Since I'm away on a road trip, I've been fortunate to have some wonderful people guest post for Be A Fun Mum. This post is from Tim, who writes online articles all about organisation in the home.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7f3ff710db0f35d18bb0b4a26f8d7951da5d8a0f.jpg"></article>]]></description>
+            <link>http://beafunmum.com/2011/07/10-tips-for-organising-childrens-toys/</link>
+            <guid isPermaLink="false">338eb582-24d2-496b-bc4e-870a67dac9a1</guid>
+            <pubDate>Tue, 26 Apr 2016 22:41:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Organising To Make Life Easier: Car Organisation]]></title>
             <description><![CDATA[<article><h1>Organising To Make Life Easier: Car Organisation</h1><p>Today I want to share with you how I organise our car. After seeing a blog post about car organisation and kit from Kaz at Living on a latte. I thought some areas of our car could be organised better. Thanks for the inspiration and the ideas Kaz.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4846241764d537117aac7f023f5b77fb83b5f899.jpg"></article>]]></description>
